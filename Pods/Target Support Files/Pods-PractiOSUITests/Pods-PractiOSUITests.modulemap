@@ -1,0 +1,6 @@
+framework module Pods_PractiOSUITests {
+  umbrella header "Pods-PractiOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
