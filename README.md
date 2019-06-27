@@ -13,3 +13,5 @@ Implemented Google Firebase into application using their Authentication service 
 
 Here's a walkthrough of the application so far
 
+<img src='https://github.com/JShimonov/PractFirebaseAuth/blob/master/AuthWalkthru.gif' />
+<img src='https://github.com/JShimonov/PractFirebaseAuth/blob/master/AuthWalkthruPt1.2.gif' />
